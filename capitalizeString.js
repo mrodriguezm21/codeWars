@@ -12,4 +12,3 @@ function toCamelCase(str) {
   return newString;
 }
 
-toCamelCase("Marihuana-me-Lacompran-yNO-Robo");
