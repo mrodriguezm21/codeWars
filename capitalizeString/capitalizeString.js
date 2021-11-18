@@ -1,7 +1,7 @@
 function toCamelCase(str) {
   let split = str.split(/[-_]/);
   let newString = "";
-  newString += split[0].charAt(0) + split[0].slice(1).toLowerCase();
+  newString += split[0]
 
   for (let i = 1; i < split.length; i++) {
     let splited =
