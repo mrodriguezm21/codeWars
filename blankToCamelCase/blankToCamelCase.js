@@ -8,4 +8,4 @@ const blankToCamelCase = (str) => {
   console.log(newArr.join("").charAt(0).toLowerCase() + newStr.slice(1));
 };
 
-blankToCamelCase("Your order, please")
+blankToCamelCase("Century From Year")
